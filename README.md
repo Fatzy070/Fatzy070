@@ -12,7 +12,7 @@ Building full-stack web applications from frontend interfaces to backend APIs, w
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/fatzy_tech" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="Twitter" width="30" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Twitter" width="30" height="30"/>
   </a>
 </p>
 
