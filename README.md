@@ -6,7 +6,7 @@ I build and ship software across web and mobile, from user interfaces to backend
 
 My main stack includes **React, React Native, TypeScript, Next.js, Node.js, and NestJS**. I enjoy turning ideas into practical, reliable products.
 
-🌐 **Portfolio:** [ogunsolafaruk.vercel.app](https://ogunsolafaruk.vercel.app)
+🌐 **Portfolio:** [ogunsolafaruk.vercel.app](https://ogunsolafaruk.name.ng)
 
 ---
 
@@ -26,5 +26,5 @@ I'm always looking to collaborate on exciting projects and open-source initiativ
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/faruk-ogunsola-394815312)
 - **X:** [@fatzy_tech](https://x.com/fatzy_tech)
-- **Portfolio:** [View my work](https://ogunsolafaruk.vercel.app)
+- **Portfolio:** [View my work](https://ogunsolafaruk.name.ng)
 - **Email:** [ogunsolafaruk8@gmail.com](mailto:ogunsolafaruk8@gmail.com)
