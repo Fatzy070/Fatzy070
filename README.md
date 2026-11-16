@@ -6,7 +6,7 @@ I build and ship software across web and mobile, from user interfaces to backend
 
 My main stack includes **React, React Native, TypeScript, Next.js, Node.js, and NestJS**. I enjoy turning ideas into practical, reliable products.
 
-🌐 **Portfolio:** [ogunsolafaruk.vercel.app](https://ogunsolafaruk.name.ng)
+🌐 **Portfolio:** [ogunsolafaruk.name.ng](https://ogunsolafaruk.name.ng)
 
 ---
 
